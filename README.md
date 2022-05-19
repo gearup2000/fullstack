@@ -1,2 +1,1 @@
-# fullstack
-Full stack course provided by the Department of Computer Science at the University of Helsinki
+# Full stack course provided by the Department of Computer Science at the University of Helsinki
