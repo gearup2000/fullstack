@@ -35,7 +35,7 @@ const Header = (props) => {
 }
 
 const Content = (props) => {
-  const newContent = props.parts.map(function(item) {
+  const newContent = props.parts.map(function (item) {
     return (
       <div>
         <p> {item.name} {item.exercises}</p>
