@@ -39,13 +39,13 @@ const App = () => {
       
       <h3>Statistics</h3>
       <h5>
-        good={good}
+        good: {good}
          <br />
-        neutral={neutral}
+        neutral: {neutral}
          <br />
-        bad={bad}
+        bad: {bad}
          <br />
-        all={good + neutral + bad}
+        all: {good + neutral + bad}
          <br />
         average: {(good - bad) / (good + neutral + bad)}
          <br />
